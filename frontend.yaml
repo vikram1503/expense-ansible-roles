@@ -1,4 +1,4 @@
-- name: config nginx server
+- name: config frontend server
   hosts: frontend
   become: yes
   roles:
